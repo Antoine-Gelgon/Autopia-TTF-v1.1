@@ -1,0 +1,46 @@
+FONTLOG for Autopia
+-------------------
+This file provides detailed information on the Autopia font family software.
+This information should be distributed along with the Autopia font family fonts
+and any derivative works.
+
+Basic Font Information
+--------------------------
+Copyright (c) 2014, Antoine Gelgon (http://antoine-gelgon.fr/)
+
+Autopia is a free family Typeface designed by Antoine Gelgon. This project was initiated during the Summer School of OSP in August 2013. The particularity of this fonts is in the process of developing its shape. The skeleton was generated through Autotrace Program (a program that converts bitmap to vectorgraphics). Calligraphic forms were drawn with Python Fontforge’s code.
+
+
+Information for Contributors
+------------------------------
+Copyright (C) 2014 Antoine Gelgon 
+http://antoine-gelgon.fr/
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+
+ChangeLog
+----------
+(This should list both major and minor changes, most recent first.)
+
+6 march 2014 (Antoine) version 1.1
+- improvement of metrics and kerning for Autopia-regular and Autopia-bold.
+
+
+7 Feb 2014 (Antoine) version 1
+- First public release
+-Autopia-regular, Autopia-italic, Autopia-bold, Autopia-bold-italic,
+
+Acknowledgements
+-------------------------
+If you make modifications be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is sorted by last name in alphabetical
+order.)
+
+N: Antoine Gelgon
+E: antoine.gelgon@gmail.com
+W: antoine-gelgon.fr
+
+
+
+
